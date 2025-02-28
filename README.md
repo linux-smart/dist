@@ -1,0 +1,2 @@
+# dist
+Linux Smart Distribution
